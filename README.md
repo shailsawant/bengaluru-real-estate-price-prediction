@@ -4,6 +4,10 @@ An end-to-end machine-learning regression project that predicts Bengaluru proper
 
 The project covers data auditing, cleaning, exploratory analysis, outlier investigation, model comparison, hyperparameter tuning, final evaluation, model persistence and a Streamlit prediction interface.
 
+## Live Demo
+
+Try the deployed application: [Bengaluru Property Price Predictor](https://bengaluru-property-price-predictor.streamlit.app/)
+
 ## Project Results
 
 The final model is a tuned Random Forest Regressor evaluated once against an untouched test dataset of 2,660 properties.
